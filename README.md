@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# JavaScriptmas Day 12 - Christmas Guest List
 
 Quick start:
 
